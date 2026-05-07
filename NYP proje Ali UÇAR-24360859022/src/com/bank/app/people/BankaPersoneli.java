@@ -7,6 +7,7 @@ public class BankaPersoneli extends Kisi {
 	
 	public BankaPersoneli(String ad,String soyad,String email,int telefonNumarasi){
 		super(ad,soyad,email,telefonNumarasi);
+		//rastgele ID numarası
 		this.personelID=((long)(Math.random()*Math.pow(10,13)))+"";}
 		public String toString(){
 			return super.toString()+" personel id:"+personelID+" personelin musteri sayısı"+musteriler.size();}
