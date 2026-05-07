@@ -4,6 +4,7 @@ public class KrediKarti {
 	private String kartNumarasi;
 	private double limit,guncelBorc,kullanilabilirLimit;
 	public KrediKarti(double limit,double guncelBorc){
+		//rastgele kart numarası
 		kartNumarasi=((long)(Math.random()*Math.pow(10,13)))+"";
 		this.limit=limit;
 		this.guncelBorc=guncelBorc;
