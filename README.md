@@ -6,7 +6,7 @@
 
 * Bu proje Bursa Teknik Üniversitesi Nesneye Yönelik Programlama dersi ödevi için bireysel olarak geliştirilmiştir.
 
-* Proje açıklaması: Proje,temel bankacılık operasyonlarını nesne yönelimli mimari üzerinden dinamik olarak yönetmektedir.Kapsülleme,kalıtım ve çok biçimlilik prensipleri kullanılarak banka personeli,müşteriler,vadesiz hesaplar, yatırım hesapları ve kredi kartları modellenmiştir.Rastgele üretilen kimlik bilgileri ve dinamik bakiyelerle işlemler simüle edilmekte,sonuçlar konsol üzerinden formatlı bir özet olarak sunulmaktadır.Sistemde simüle edilen işlemler:
+* Proje açıklaması: Proje,temel bankacılık operasyonlarını nesne yönelimli mimari üzerinden dinamik olarak yönetmektedir.Kapsülleme,kalıtım ve çok biçimlilik prensipleri kullanılarak banka personeli,müşteriler,vadesiz hesaplar, yatırım hesapları ve kredi kartları modellenmiştir.Rastgele üretilen kimlik bilgileri ve dinamik bakiyelerle işlemler simüle edilmekte,sonuçlar konsol üzerinden formatlı bir özet olarak sunulmaktadır.Daha detaylı açıklama için yüklediğim ana klasör içerisinde src ile birlikte pdf sunumu da bulunuyor.Sistemde simüle edilen işlemler:
 
     1. Yeni Müşteri ve Personel Kaydı
 
